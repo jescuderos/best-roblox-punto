@@ -157,6 +157,6 @@ administrador, y faltar el runtime de Visual C++.
 
 ---
 
-*Roblox · Actualizado 2026-11-11 · Compartido bajo licencia MIT*
+*Roblox · Actualizado 2026-11-12 · Compartido bajo licencia MIT*
 
-<!-- updated 2026-11-11 -->
+<!-- updated 2026-11-12 -->
